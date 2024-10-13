@@ -1,4 +1,5 @@
 # -River-Water-Segmentation
 River Water Segmentation in  Close-Range Remote Sensing Imagery
-IoU: 0.9347951746186312, Accuracy: 0.9708204280004583, Precision: 0.9687154209479477, Recall: 0.9632971178469731, F1: 0.9658380793625618, Dice: 0.9658385792707855
-FP: 147482.625, FN: 199342.0, TP: 4596405.125, TN: 6986370.25
+Evaluating: IoU: 0.9415501699838323, Accuracy: 0.9741803116267601, Precision: 0.9698438205963346, Recall: 0.9695849683034389, F1: 0.9696328843881767,  Dice: 0.969633384345446
+Avg time per batch: 1.1363 seconds
+Avg time per image: 0.0390 seconds
