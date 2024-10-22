@@ -2,3 +2,6 @@ data
 https://www.kaggle.com/datasets/gvclsu/water-segmentation-dataset/data
 https://www.kaggle.com/datasets/franzwagner/river-water-segmentation-dataset
 https://www.kaggle.com/datasets/arminmoghimi/lufi-riversnap
+
+
+@There were 5 overlapping images between the Train/Val and Test sets, which were removed in advance before conducting the experiment.
