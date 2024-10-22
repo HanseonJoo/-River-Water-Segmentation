@@ -2,3 +2,5 @@ Evaluating: 100%|██████████| 8/8 [03:43<00:00, 27.89s/batch]
 FP: 141881.875, FN: 164675.125, TP: 4631072.0, TN: 6991971.0
 Avg time per batch: 1.2454 seconds
 Avg time per image: 0.0428 seconds
+
+There were a total of 5 overlapping images between the Train/Val and Test sets, 4 of which were removed using different code in advance, while the last one was deleted within the code due to permission issues.
